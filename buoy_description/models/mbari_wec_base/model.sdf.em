@@ -148,6 +148,7 @@ buoyancy_radius = ((3*buoyancy_disp)/(4*math.pi))**(1/3)
         <geometry>
           <mesh>
             <uri>package://buoy_description/models/mbari_wec_base/meshes/buoy_float.stl</uri>
+            <scale>0.1 0.1 0.1</scale>
           </mesh>
         </geometry>
         <!--color-->
